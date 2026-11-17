@@ -7,6 +7,13 @@
 C2 Skyworld is an independently developed, proprietary multi-asset financial technology ecosystem combining specialised trading Engines, market intelligence, broker and exchange connectivity, portfolio oversight, and layered risk governance.
 
 > **Public technology showcase.** This repository describes platform capabilities and development direction. It does not contain proprietary trading algorithms, executable strategies, credentials, signing material, or production source code.
+## C2 Skyworld V7 — Global Connected Fleet Architecture
+
+![C2 Skyworld V7 Architecture](Assets/C2-Skyworld-V7-Architecture.png)
+
+**V7 Upgrade Programme:** Integration of Symbol Market Scanner V3, PAMM, MAM, Investment Management, User Access Management and Exchange Infrastructure Management is currently undergoing development and qualification.
+
+*The diagram illustrates the connected platform architecture and intended market coverage, not certification of every module or exchange connection.*
 
 ## The C2 Engine Fleet
 
